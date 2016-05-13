@@ -11,3 +11,6 @@ img {
   background-color: #99ffbb;
   border: 2px solid black;
 }
+.caption a:link, .caption a:hover, .caption a:active, .caption a:visited {
+  color: #ffffff;
+}
