@@ -3,6 +3,7 @@
 
 In class code review for epicodus
 ##Setup Instructions
-Alt F4
+Press: Alt F4
 
 copyright Dan Siegel
+http://danjsiegel.github.io/fridayhw/
